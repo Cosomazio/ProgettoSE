@@ -11,5 +11,6 @@
 public class pippo1 {
     public void stamp(){
         System.out.println("ciaoamigo");
+        System.out.println("micio");
     }
 }
